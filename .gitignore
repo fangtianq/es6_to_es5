@@ -1,2 +1,8 @@
 /node_modules/
 /dist/
+/.idea/.gitignore
+/.idea/es6_to_es5.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/package-lock.json
+/.idea/vcs.xml
